@@ -36,6 +36,6 @@ To scan the IP address 192.168.1.0/24, you would run:
   ```
 
 ## Important Notes
-This script requires administrative privileges to send ARP requests and receive responses.
+- This script requires administrative privileges to send ARP requests and receive responses.
 
-The script sends ARP requests to the specified IP address or IP range. It might not work across different network segments or firewalls.
+- The script sends ARP requests to the specified IP address or IP range. It might not work across different network segments or firewalls.
