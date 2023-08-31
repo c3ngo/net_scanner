@@ -2,6 +2,13 @@
 
 This script utilizes the Scapy library to perform network scanning by sending ARP requests to a specified IP address or IP range. It allows you to discover active hosts on the network and their corresponding MAC addresses.
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Usage](#usage)
+- [Example](#example)
+- [Important Notes](#important-notes)
+
 ## Prerequisites
 
 - Make sure you have Python installed on your system.
